@@ -1,5 +1,5 @@
 <div id="header" align="left">
-  <img src="https://i.pinimg.com/originals/2f/68/20/2f6820bbae41cb6cb9d1266b32c05336.gif" width="600"/>
+  <img src="https://thumbs.gfycat.com/CharmingDeficientGelada-size_restricted.gif" width="600"/>
 </div>
 
 ### Me Me Me Me
