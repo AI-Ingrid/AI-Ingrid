@@ -4,3 +4,5 @@
 - 🧠 Spesialiserer meg i Artificial Intelligence (AI)
 - 🩻 Skriver master om Medical Image Computing (MIC)
 - 💻 Masteroppgaven min handler om Computer Vision 👁️👁️ i luftrøret 🫁
+
+### Mine prosjekter
