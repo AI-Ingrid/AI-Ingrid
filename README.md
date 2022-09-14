@@ -7,5 +7,5 @@
 
 ### Mine prosjekter
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media0.giphy.com/media/QeuIjgyfsHp6w/giphy.gif?cid=ecf05e47aq54dqsqpaw4mt8g56ozauluz6huxltni18gvah9&rid=giphy.gif&ct=g" width="100"/>
 </div>
