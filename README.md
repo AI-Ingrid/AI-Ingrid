@@ -9,27 +9,28 @@
 - 🩻 Skriver master om Medical Image Computing (MIC)
 - 💻 Masteroppgaven min handler om Computer Vision 👁️👁️ i luftrøret 🫁
 
+### Kodeprosjekter
 Under har jeg systematisert repoene mine etter tema slik at det blir enklere å finne repo til det man ønsker å se på.
 
-### Første kodeprosjekter
-- Tegning
-- 
 
-### Små skoleprosjekter
+#### Første kodeprosjekter
+- Tegning
+
+#### Små skoleprosjekter
 - My Calculator
 - Morse code
 - Encoding and Decoding
 - Rock Paper Scissors
 
-### AI prosjekter 
+#### AI prosjekter 
 
-#### Unsupervised Learning
+##### Unsupervised Learning
 - K-Means Clustering
 - Logistic Regression
 
-#### Supervised Learning
+##### Supervised Learning
 - Computer Vision and Deep Learning
 
-#### Reinforcement Learning
+##### Reinforcement Learning
 - Polebalancing, The Gambler and Towers of Hanoi
 - The boardgame: Hex
