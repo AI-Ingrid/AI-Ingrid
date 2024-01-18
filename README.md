@@ -1,5 +1,5 @@
 <div id="header" align="left">
-  <img src="https://cur.glitter-graphics.net/pub/3715/3715420l566lo7oqn.gif" width="600"/>
+  <img src="https://static.myfigurecollection.net/upload/pictures/2021/08/16/2820957.gif" width="600"/>
 </div>
 
 ### Me Me Me
